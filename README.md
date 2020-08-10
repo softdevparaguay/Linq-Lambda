@@ -1,4 +1,4 @@
-# linq
+# Linq
 Códigos utilizados en los vídeos sobre Linq y Expresiones Lambda
 
 Para los siguientes videos 
